@@ -22,6 +22,7 @@ The Background Color Changer project allows users to change the background color
 
 ### Description
 The Password Generator project generates a random password based on user preferences such as length and character types. It utilizes the `useState` and `useEffect` hooks to manage state and handle password generation.
+
 ![image](https://github.com/Monachaudhary/Projects_Using_ReactJs/assets/96776726/b7117764-0909-43d0-9cc4-b391a2c87fa2)
 
 ### How it Works
